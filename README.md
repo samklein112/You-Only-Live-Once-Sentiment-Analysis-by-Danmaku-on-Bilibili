@@ -2,7 +2,7 @@
 
 ## Background
 The 2024 Chinese movie “You Only Live Once” (also known as “YOLO”), directed by Jia Ling and starring Jia Ling herself along with Lei Jiayin, was a significant success. This comedic adaptation of the 2014 Japanese film “100 Yen Love” combines elements of comedy and drama. 
-
+![YOLO Movie Poster](YOLO_movie_poster.jpeg)
 The story follows Du Leying, a chronically unemployed woman in her 30s who lives with her family and struggles with depression and self-esteem issues. After a series of personal setbacks, including a painful breakup and a failed appearance on a reality TV show, Leying decides to take control of her life by taking up boxing. She trains rigorously, loses significant weight, and ultimately participates in a boxing match that, despite her loss, earns her respect and a newfound sense of self-worth.
 
 The movie highlights themes of personal transformation, perseverance, and the struggle for self-respect. It also explores family dynamics and societal pressures. The film was well-received, grossing significant box office revenue and becoming a notable release during the Lunar New Year holiday season.
