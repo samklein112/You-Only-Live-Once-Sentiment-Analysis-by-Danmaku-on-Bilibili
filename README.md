@@ -1,4 +1,4 @@
-# You-Only-Live-Once-Sentiment-Analysis-by-Danmaku-on-Bilibili
+# You Only Live Once (YOLO) Sentiment Analysis by Danmaku on Bilibili
 
 
 ## Background
