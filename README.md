@@ -2,7 +2,9 @@
 
 ## Background
 The 2024 Chinese movie “You Only Live Once” (also known as “YOLO”), directed by Jia Ling and starring Jia Ling herself along with Lei Jiayin, was a significant success. This comedic adaptation of the 2014 Japanese film “100 Yen Love” combines elements of comedy and drama. 
-![YOLO Movie Poster](YOLO_movie_poster.jpeg)
+<div align="center">
+  <img src="YOLO_movie_poster.jpeg" alt="YOLO Movie Poster" width="400"/>
+</div>
 The story follows Du Leying, a chronically unemployed woman in her 30s who lives with her family and struggles with depression and self-esteem issues. After a series of personal setbacks, including a painful breakup and a failed appearance on a reality TV show, Leying decides to take control of her life by taking up boxing. She trains rigorously, loses significant weight, and ultimately participates in a boxing match that, despite her loss, earns her respect and a newfound sense of self-worth.
 
 The movie highlights themes of personal transformation, perseverance, and the struggle for self-respect. It also explores family dynamics and societal pressures. The film was well-received, grossing significant box office revenue and becoming a notable release during the Lunar New Year holiday season.
@@ -96,14 +98,20 @@ Throughout the workflow, robust error-handling mechanisms were implemented:
 ### Word Cloud Visualization
 The word cloud highlights the most frequently used words in the danmaku comments for the movie "YOLO". Larger words indicate higher frequency and importance. It provides a quick visual representation of audience focus and key themes.
 
-![Word Cloud](word_cloud.jpg)
+<div align="center">
+  <img src="word_cloud.jpg" alt="Word Cloud" width="600"/>
+</div>
+
+---
 
 ### Sentiment Analysis Distribution
 The sentiment analysis distribution chart illustrates the emotional responses from the danmaku comments. The x-axis represents the sentiment scores ranging from 0 (negative) to 1 (positive), while the y-axis represents the frequency of comments for each sentiment score range. The chart shows two major peaks:
 1. A peak near 0.5, indicating neutral or slightly negative comments.
 2. A peak near 1.0, showing a significant proportion of positive comments.
 
-![Sentiment Analysis Distribution](sentiment_analysis_distribution.png)
+<div align="center">
+  <img src="sentiment_analysis_distribution.png" alt="Sentiment Analysis Distribution" width="600"/>
+</div>
 
 
 ## Conclusions and Discussions
