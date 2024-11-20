@@ -3,7 +3,7 @@
 ## Background
 The 2024 Chinese movie “You Only Live Once” (also known as “YOLO”), directed by Jia Ling and starring Jia Ling herself along with Lei Jiayin, was a significant success. This comedic adaptation of the 2014 Japanese film “100 Yen Love” combines elements of comedy and drama. 
 <div align="center">
-  <img src="YOLO_movie_poster.jpeg" alt="YOLO Movie Poster" width="400"/>
+  <img src="YOLO_movie_poster.png" alt="YOLO Movie Poster" width="400"/>
 </div>
 The story follows Du Leying, a chronically unemployed woman in her 30s who lives with her family and struggles with depression and self-esteem issues. After a series of personal setbacks, including a painful breakup and a failed appearance on a reality TV show, Leying decides to take control of her life by taking up boxing. She trains rigorously, loses significant weight, and ultimately participates in a boxing match that, despite her loss, earns her respect and a newfound sense of self-worth.
 
@@ -99,7 +99,7 @@ Throughout the workflow, robust error-handling mechanisms were implemented:
 The word cloud highlights the most frequently used words in the danmaku comments for the movie "YOLO". Larger words indicate higher frequency and importance. It provides a quick visual representation of audience focus and key themes.
 
 <div align="center">
-  <img src="word_cloud.jpg" alt="Word Cloud" width="600"/>
+  <img src="word_cloud.png" alt="Word Cloud" width="600"/>
 </div>
 
 ---
